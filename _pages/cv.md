@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "REBECCA MBANYELE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -50,9 +50,6 @@ Skills
 
 Publications and Conferences
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 * Upcoming: The internal fractures: Addressing archival silences in community archives. ASA Conference, May 2026.
 * Preserving the documentary heritage of marginalized cultural groups in Zimbabwe. Archives and Records Association of Zimbabwe Conference, 2023.
@@ -61,9 +58,6 @@ Publications and Conferences
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 * 2022 – 2023: Instructor (Part-time)
   * University of Zimbabwe
