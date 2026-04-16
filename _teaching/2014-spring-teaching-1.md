@@ -1,6 +1,6 @@
 ---
 title: "Instructor"
-collection: teaching
+collection: Teaching
 type: "University Instruction"
 permalink:
 venue: "University of Zimbabwe, Department of History, Heritage and Knowledge Systems"
