@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "REBECCA MBANYELE"
+title: "Rebecca Mbanyele"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
