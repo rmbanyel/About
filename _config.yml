@@ -23,7 +23,7 @@ repository               : "rmbanyel/rmbanyel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/pictures/Rebecca_profile.jpg"
+  avatar           : "/images/Rebecca_profile.jpg"
   name             : "Rebecca Mbanyele"
   pronouns         : "She/Her"  
   bio              : "Archivist at Spruce Grove Archives and MLIS/MA in Digital Humanities candidate at the University of Alberta."
